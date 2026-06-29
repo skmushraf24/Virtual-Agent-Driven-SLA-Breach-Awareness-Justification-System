@@ -73,7 +73,8 @@ Create and activate a new Update Set to capture all project-related configuratio
 
 **Description:** Navigate to **System Update Sets → Local Update Sets** from the Application Navigator.
 
-![Navigation to Local Update Sets](file:///C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/servicenow_navigation_update_set_1782750076365.png)
+<img width="1024" height="1024" alt="servicenow_navigation_update_set_1782750076365" src="https://github.com/user-attachments/assets/cd1e40a4-3b81-4994-b7fc-09775a29e2c6" />
+
 
 ---
 
@@ -81,7 +82,8 @@ Create and activate a new Update Set to capture all project-related configuratio
 
 **Description:** Create a new Update Set with the name **Virtual Agent for SLA V1** and click **Submit and Make Current**.
 
-![Creating the Update Set](file:///C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/servicenow_create_update_set_1782750091729.png)
+<img width="1024" height="1024" alt="servicenow_create_update_set_1782750091729" src="https://github.com/user-attachments/assets/b0a250f1-0fb7-4bcb-83ed-5b1296ed3612" />
+
 
 ---
 
