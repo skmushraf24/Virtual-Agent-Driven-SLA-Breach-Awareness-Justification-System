@@ -1,1 +1,76 @@
+# Task 3 – Stakeholder Mapping
+
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task identifies the primary stakeholders involved in the project and defines their roles, responsibilities, and interactions within the ServiceNow platform. The stakeholder mapping helps establish accountability, improve collaboration, and ensure effective SLA governance.
+
+---
+
+## Stakeholders
+
+* IT Support Agents
+* IT Managers
+* ServiceNow Administrator
+
+---
+
+## Responsibilities
+
+### IT Support Agents
+
+* Receive SLA alerts
+* Interact with the Virtual Agent
+* Submit SLA breach justifications
+
+### IT Managers
+
+* Monitor SLA compliance
+* Review breach reasons
+* Track team performance
+
+### ServiceNow Administrator
+
+* Configure SLAs
+* Manage Virtual Agent topics
+* Configure UI Policies
+* Maintain dashboards and reports
+
+---
+
+## Deliverables
+
+* Stakeholder Mapping Documentation
+* Roles and Responsibilities
+* Stakeholder Interaction Flow
+* Stakeholder Summary Table
+
+---
+
+## Technologies Used
+
+* ServiceNow Administration
+* SLA Management
+* Virtual Agent
+* Flow Designer
+* Reports & Dashboards
+
+---
+
+## Expected Outcome
+
+The stakeholder mapping ensures that each participant clearly understands their responsibilities, leading to improved communication, better SLA governance, and efficient system administration.
+
+---
+
+**Status:** Completed
+
+**Internship:** SmartBridge ServiceNow Administration
+
+**Task:** 3 – Stakeholder Mapping
 
