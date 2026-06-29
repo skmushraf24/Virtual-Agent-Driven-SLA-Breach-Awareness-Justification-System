@@ -1,1 +1,68 @@
+# Task 6 – Create Business Schedule
+
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task creates a Business Schedule that defines the official working hours of the IT Support team. The schedule is used by ServiceNow SLAs to calculate response and resolution times only during business hours.
+
+---
+
+## Navigation
+
+**System Scheduler → Schedules → New**
+
+---
+
+## Configuration Details
+
+| Field         | Value                     |
+| ------------- | ------------------------- |
+| Schedule Name | IT Support Business Hours |
+| Time Zone     | IST (Asia/Kolkata)        |
+| Working Days  | Monday–Friday             |
+| Working Hours | 09:00 AM – 06:00 PM       |
+| Show As       | Busy                      |
+
+---
+
+## Steps Completed
+
+* Created Business Schedule
+* Configured Schedule Entries
+* Set Working Days
+* Set Business Hours
+* Configured Repeat Pattern
+* Saved the Schedule
+
+---
+
+## Deliverables
+
+* Business Schedule Configuration
+* Schedule Entry Configuration
+* Implementation Documentation
+* Screenshots
+
+---
+
+## Expected Result
+
+The Business Schedule is successfully configured and ready to be used by ServiceNow Service Level Agreements for accurate business-hour-based SLA calculations.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 6 – Create Business Schedule
 
