@@ -95,7 +95,8 @@ Click **Submit** to save the schedule entry.
 
 Shows navigation to **System Scheduler → Schedules**.
 
-![Navigation to Business Schedules](file:///C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/schedules_navigation_1782754275660.png)
+<img width="1024" height="1024" alt="schedules_navigation_1782754275660" src="https://github.com/user-attachments/assets/0f6df0e0-5aa9-48b4-b45f-579a83292a5f" />
+
 
 ---
 
@@ -103,7 +104,7 @@ Shows navigation to **System Scheduler → Schedules**.
 
 Displays the newly created **IT Support Business Hours** schedule.
 
-![Business Schedule Created](file:///C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/schedule_created_1782754291427.png)
+<img width="1024" height="1024" alt="schedule_created_1782754291427" src="https://github.com/user-attachments/assets/da7929cb-50a0-4526-bbce-aa2b14f064f0" />
 
 ---
 
@@ -111,7 +112,8 @@ Displays the newly created **IT Support Business Hours** schedule.
 
 Shows the working days, working hours, and **Show As = Busy** configuration.
 
-![Schedule Entry Configuration](file:///C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/schedule_entry_config_1782754309576.png)
+<img width="1024" height="1024" alt="schedule_entry_config_1782754309576" src="https://github.com/user-attachments/assets/e5749c11-a1fd-4e9f-a671-73d12a431d41" />
+
 
 ---
 
