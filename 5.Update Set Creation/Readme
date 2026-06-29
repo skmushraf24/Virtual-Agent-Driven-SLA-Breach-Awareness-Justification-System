@@ -1,1 +1,60 @@
+# Task 5 – Update Set Creation
+
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task demonstrates the creation of a dedicated Update Set in ServiceNow to capture all project configurations related to the Virtual Agent–Driven SLA Breach Awareness & Justification System.
+
+---
+
+## Navigation
+
+**System Update Sets → Local Update Sets**
+
+---
+
+## Configuration Details
+
+| Property        | Value                    |
+| --------------- | ------------------------ |
+| Update Set Name | Virtual Agent for SLA V1 |
+| Application     | Global                   |
+| State           | In Progress              |
+
+---
+
+## Steps Performed
+
+1. Open **System Update Sets → Local Update Sets**.
+2. Click **New**.
+3. Enter the Update Set name as **Virtual Agent for SLA V1**.
+4. Click **Submit and Make Current**.
+5. Verify that the Update Set is active.
+
+---
+
+## Deliverables
+
+* Update Set Configuration
+* Active Update Set
+* Configuration Screenshots
+
+---
+
+## Expected Outcome
+
+A new Update Set named **Virtual Agent for SLA V1** is created and made current, ensuring that all project customizations are captured for migration and deployment.
+
+---
+
+**Status:** Completed
+
+**Internship:** SmartBridge ServiceNow Administration
+
+**Task:** 5 – Update Set Creation
 
