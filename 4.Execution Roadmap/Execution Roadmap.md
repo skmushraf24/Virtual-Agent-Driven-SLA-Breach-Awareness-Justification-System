@@ -72,5 +72,5 @@ Switch to **Phase 6** in the sidebar to reveal the automated test runner in the 
 ## 📊 Visual Mockup
 
 A premium, dark-mode design mockup has been created to guide the implementation:
+<img width="646" height="551" alt="image" src="https://github.com/user-attachments/assets/5792b06e-6b40-45b3-a4e7-67a45deb0729" />
 
-![SLA Governance Dashboard Mockup](file:///C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/sla_dashboard_mockup_1782729228429.png)
