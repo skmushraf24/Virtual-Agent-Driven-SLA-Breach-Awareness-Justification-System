@@ -1,1 +1,72 @@
+# Task 7 – SLA Creation
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task configures a Service Level Agreement (SLA) for Incident Resolution using ServiceNow Administration. The SLA monitors incident resolution time based on business hours and supports proactive SLA governance.
+
+---
+
+## Navigation
+
+**Service Level Management → SLA Definitions**
+
+---
+
+## SLA Configuration
+
+| Field | Value |
+|------|------|
+| Name | Incident Resolution - Virtual Agent Governance |
+| Type | SLA |
+| Target | Resolution |
+| Table | Incident |
+| Active | True |
+| Duration Type | User Specified |
+| Duration | 8 Hours |
+| Schedule Source | SLA Definition |
+| Schedule | IT Support Business Hours |
+
+---
+
+## Steps Performed
+
+- Opened SLA Definitions
+- Created a new SLA
+- Configured Incident Resolution target
+- Set Duration to 8 Hours
+- Associated Business Schedule
+- Activated the SLA
+- Saved the configuration
+
+---
+
+## Deliverables
+
+- SLA Definition
+- Incident Resolution Configuration
+- Business Schedule Association
+- Configuration Screenshots
+
+---
+
+## Expected Result
+
+A new SLA named **Incident Resolution - Virtual Agent Governance** is successfully created and configured to monitor Incident resolution time during IT Support business hours.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 7 – SLA Creation
