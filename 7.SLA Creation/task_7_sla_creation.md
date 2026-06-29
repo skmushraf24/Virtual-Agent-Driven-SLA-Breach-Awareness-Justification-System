@@ -85,7 +85,8 @@ Click **Submit** or **Update**.
 
 Shows navigation to **Service Level Management â†’ SLA Definitions**.
 
-![SLA Definitions Navigation](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/sla_definitions_navigation_1782754936561.png)
+<img width="1024" height="1024" alt="sla_definitions_navigation_1782754936561" src="https://github.com/user-attachments/assets/6e2c5f40-dd93-440c-b58d-8ffc9308e2f9" />
+
 
 ---
 
@@ -93,7 +94,8 @@ Shows navigation to **Service Level Management â†’ SLA Definitions**.
 
 Shows the completed SLA Definition for the project.
 
-![SLA Definition Configuration](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/sla_definition_config_1782754963088.png)
+<img width="1024" height="1024" alt="sla_definition_config_1782754963088" src="https://github.com/user-attachments/assets/b4cc360d-9562-493d-8e45-8b2ae6fb0ca8" />
+
 
 ---
 
