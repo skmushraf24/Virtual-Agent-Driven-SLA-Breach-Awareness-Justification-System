@@ -1,1 +1,57 @@
+# Task 2 – Functional Scope
+
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task defines the functional scope of the project by outlining the core features and capabilities implemented using ServiceNow Administration. The document describes how SLA monitoring, Virtual Agent interactions, notifications, automation, reporting, and access control contribute to effective SLA management.
+
+---
+
+## Functional Modules
+
+* SLA Monitoring
+* Virtual Agent Interaction
+* Incident Update Automation
+* Notifications
+* Reporting & Dashboards
+* Security & Access Control
+
+---
+
+## Deliverables
+
+* Functional Scope Documentation
+* Feature Descriptions
+* Expected Outcomes
+* ServiceNow Functional Overview
+
+---
+
+## Technologies Used
+
+* ServiceNow Administration
+* SLA Management
+* Virtual Agent
+* Flow Designer
+* UI Policies
+* Reports & Dashboards
+
+---
+
+## Expected Outcome
+
+The functional scope establishes a structured SLA management process that enables proactive monitoring, automated notifications, guided user interactions, secure justification handling, and comprehensive reporting using native ServiceNow Administration features.
+
+---
+
+**Status:** Completed
+
+**Internship:** SmartBridge ServiceNow Administration
+
+**Task:** 2 – Functional Scope
 
