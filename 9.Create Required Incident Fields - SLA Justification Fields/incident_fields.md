@@ -143,15 +143,16 @@ Save the field.
 
 **Description:** Navigate to System Definition -> Tables and open the Incident table.
 
-![Incident Table Navigation](/incident_table_nav_1782806629804.jpg)
+<img width="1024" height="1024" alt="incident_table_nav_1782806629804" src="https://github.com/user-attachments/assets/ab341b3a-b6a0-4f12-8b27-1891dc78474c" />
+
 
 ---
 
 ## Figure 2 - SLA Breach Reason Field
 
 **Description:** Create the choice field 'SLA Breach Reason'.
+<img width="1024" height="1024" alt="sla_breach_reason_config_1782806647918" src="https://github.com/user-attachments/assets/ccf2feb4-80ab-4140-81fb-e952b2d2a4ec" />
 
-![SLA Breach Reason Field](/sla_breach_reason_config_1782806647918.jpg)
 
 ---
 
@@ -159,31 +160,32 @@ Save the field.
 
 **Description:** Predefined choice values configured for the field.
 
-![Choice Values](/choice_values_config_1782806665244.jpg)
+<img width="1024" height="1024" alt="choice_values_config_1782806665244" src="https://github.com/user-attachments/assets/e79b7539-44fb-406e-9d90-2dc32ea9bce4" />
+
 
 ---
 
 ## Figure 4 - SLA Breach Justification Field
 
 **Description:** Create the string field 'SLA Breach Justification'.
+<img width="1024" height="1024" alt="justification_field_config_1782806681831" src="https://github.com/user-attachments/assets/e889d99c-a98b-475d-a25b-31bcbe804314" />
 
-![SLA Breach Justification Field](/justification_field_config_1782806681831.jpg)
 
 ---
 
 ## Figure 5 - SLA Acknowledgement Field
 
 **Description:** Create the true/false field 'SLA Acknowledgement'.
+<img width="1024" height="1024" alt="acknowledgement_field_config_1782806697180" src="https://github.com/user-attachments/assets/3b5a0c3e-5ec6-4a18-bd57-872d18ff2761" />
 
-![SLA Acknowledgement Field](/acknowledgement_field_config_1782806697180.jpg)
 
 ---
 
 ## Figure 6 - SLA At Risk Field
 
 **Description:** Create the true/false field 'SLA At Risk'.
+<img width="1024" height="1024" alt="at_risk_field_config_1782806711496" src="https://github.com/user-attachments/assets/6c2cc784-55db-4e02-9896-4bba53fa3cec" />
 
-![SLA At Risk Field](/at_risk_field_config_1782806711496.jpg)
 
 ---
 
