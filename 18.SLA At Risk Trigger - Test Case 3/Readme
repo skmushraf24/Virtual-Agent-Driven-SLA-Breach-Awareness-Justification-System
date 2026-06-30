@@ -1,1 +1,58 @@
+# Task 18 – SLA At Risk Trigger (Test Case 3)
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+Verify that the **SLA At Risk** field is automatically updated when the Business Elapsed Percentage reaches **80% or more**.
+
+---
+
+## Navigation
+
+**Incident → Open Existing Incident**
+
+---
+
+## Test Steps
+
+1. Open an Incident with an active SLA.
+2. Wait until the SLA reaches **80% Business Elapsed**.
+3. Refresh the Incident.
+4. Verify the **SLA At Risk** field.
+5. Check the updated Work Notes.
+
+---
+
+## Expected Result
+
+- SLA reaches 80% or higher.
+- **SLA At Risk = True** automatically.
+- Work Notes updated with:
+  - **SLA Crossed 80%, Governance Activated**
+- Flow executes successfully.
+
+---
+
+## Test Status
+
+**PASS**
+
+---
+
+## Deliverables
+
+- SLA At Risk Validation
+- Flow Automation Verification
+- Work Notes Verification
+- Test Screenshots
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 18 – SLA At Risk Trigger – Test Case 3
