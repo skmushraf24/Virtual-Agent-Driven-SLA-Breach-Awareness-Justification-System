@@ -1,1 +1,67 @@
+# Task 13 – Configure Virtual Agent
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task configures a Virtual Agent topic that provides guided assistance to IT support agents for SLA breach awareness, acknowledgement, and justification.
+
+---
+
+## Navigation
+
+**Virtual Agent → Designer → Create**
+
+---
+
+## Topic Information
+
+| Property | Value |
+|----------|-------|
+| Display Name | SLA Breach Awareness & Justification |
+| Internal Name | sla_breach_awareness_justification |
+| Type | Internal Topic |
+| Role | itil |
+| Visibility | Contextual |
+
+---
+
+## Conversation Flow
+
+- Greeting Message
+- SLA Guidance
+- Decision Node
+- Success Response
+- Reminder Response
+
+---
+
+## Deliverables
+
+- Virtual Agent Topic
+- Conversation Flow
+- Decision Logic
+- Bot Responses
+- Configuration Screenshots
+
+---
+
+## Expected Outcome
+
+The Virtual Agent successfully guides users through the SLA breach acknowledgement process, ensuring mandatory fields are completed before the Incident is saved.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 13 – Configure Virtual Agent
