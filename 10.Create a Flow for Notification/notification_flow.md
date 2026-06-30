@@ -158,7 +158,8 @@ ServiceNow System
 
 **Description:** Navigate to Process Automation → Flow Designer to create the flow.
 
-![Flow Designer Navigation](/flow_designer_navigation_1782808276665.jpg)
+<img width="1024" height="1024" alt="flow_designer_navigation_1782808276665" src="https://github.com/user-attachments/assets/96002e8d-3157-456b-a412-d7f32a3d896f" />
+
 
 ---
 
@@ -166,39 +167,40 @@ ServiceNow System
 
 **Description:** Set the trigger on the 'Task SLA' table for when Elapsed Percentage crosses 80%.
 
-![Flow Trigger Configuration](/flow_trigger_config_1782808291004.jpg)
+<img width="1024" height="1024" alt="flow_trigger_config_1782808291004" src="https://github.com/user-attachments/assets/16b9aaa2-f295-4fbb-89a4-fb703181e29b" />
+
 
 ---
 
 ### Figure 3 – Look Up Record Action
 
 **Description:** Configure 'Look Up Record' action to retrieve the related Incident.
+<img width="1024" height="1024" alt="lookup_record_action_1782808305299" src="https://github.com/user-attachments/assets/b63f768e-e425-47f3-814e-285c155488c1" />
 
-![Look Up Record Action](/lookup_record_action_1782808305299.jpg)
 
 ---
 
 ### Figure 4 – Update Record Action
 
 **Description:** Set the 'SLA At Risk' field to true and post an automated Work Note.
+<img width="1024" height="1024" alt="update_record_action_1782808325263" src="https://github.com/user-attachments/assets/fa15cee2-0149-48bf-8c07-cf7df90d5504" />
 
-![Update Record Action](/update_record_action_1782808325263.jpg)
 
 ---
 
 ### Figure 5 – Send Email to Assignee
 
 **Description:** Send email notification template containing deep links to the Assignee.
+<img width="1024" height="1024" alt="send_email_assignee_1782808344947" src="https://github.com/user-attachments/assets/c00dcd26-93ba-4d90-846f-84a8ed467bb1" />
 
-![Send Email to Assignee](/send_email_assignee_1782808344947.jpg)
 
 ---
 
 ### Figure 6 – Send Email to Manager
 
 **Description:** Send SLA compliance dashboard alert email to the Assignee's Manager.
+<img width="1024" height="1024" alt="send_email_manager_1782808360605" src="https://github.com/user-attachments/assets/acc830ff-992e-45e0-a71b-cd4e47357d8d" />
 
-![Send Email to Manager](/send_email_manager_1782808360605.jpg)
 
 ---
 
