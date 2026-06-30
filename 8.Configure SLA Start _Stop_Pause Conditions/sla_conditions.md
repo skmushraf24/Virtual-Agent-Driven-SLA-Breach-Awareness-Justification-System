@@ -138,7 +138,8 @@ Click **Update**.
 
 **Description:** The ServiceNow Start Condition form showing the active state rules.
 
-![Start Condition](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/sla_start_condition_1782805285669.jpg)
+<img width="1024" height="1024" alt="nn" src="https://github.com/user-attachments/assets/309754c5-3636-4fe1-ad3f-688402ffa84a" />
+
 
 ---
 
