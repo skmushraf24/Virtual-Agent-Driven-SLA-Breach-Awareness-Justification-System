@@ -1,1 +1,73 @@
+# Task 15 – Adding Reports to Existing Dashboard
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task integrates all previously created SLA reports into the **SLA Governance Dashboard**, providing IT Managers with a centralized view of SLA performance and compliance.
+
+---
+
+## Navigation
+
+**Platform Analytics → Dashboards**
+
+or
+
+**Reports → Add to Dashboard**
+
+---
+
+## Reports Added
+
+- SLA Breaches by Reason
+- SLA Breaches by Assignment Group
+- Pending Justifications
+- SLA Performance Trend
+- Acknowledged vs Unacknowledged Breaches
+- Top Assignees with SLA Violations
+
+---
+
+## Dashboard Widgets
+
+| Widget | Report |
+|---------|--------|
+| Pie | SLA Breaches by Reason |
+| Bar | SLA Breaches by Assignment Group |
+| List | Pending Justifications |
+| Trend | SLA Performance Trend |
+| Pie | Acknowledged vs Unacknowledged Breaches |
+| Bar | Top Assignees with SLA Violations |
+
+---
+
+## Deliverables
+
+- SLA Governance Dashboard
+- Dashboard Layout
+- Dashboard URL
+- Updated Flow Designer Email
+- Configuration Screenshots
+
+---
+
+## Expected Outcome
+
+The dashboard displays all SLA-related reports in a single interface, and its URL is included in the manager notification email to enable quick access to SLA analytics.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 15 – Adding Reports to Existing Dashboard
