@@ -1,1 +1,67 @@
+# Task 8 – Configure SLA Start / Stop /Pause Conditions
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task configures the lifecycle conditions of the Incident Resolution SLA to determine when the SLA starts, pauses, stops, and resets during the Incident lifecycle.
+
+---
+
+## Navigation
+
+**Service Level Management → SLA Definitions**
+
+---
+
+## SLA Conditions
+
+| Condition | Configuration |
+|-----------|---------------|
+| Start | Active = True, State = New or In Progress |
+| Pause | State = On Hold |
+| Stop | State = Resolved or Closed |
+| Reset | None |
+
+---
+
+## Steps Performed
+
+- Opened SLA Definition
+- Configured Start Condition
+- Configured Pause Condition
+- Configured Stop Condition
+- Verified Reset Condition
+- Updated the SLA
+
+---
+
+## Deliverables
+
+- SLA Lifecycle Configuration
+- Start Condition
+- Pause Condition
+- Stop Condition
+- Configuration Screenshots
+
+---
+
+## Expected Result
+
+The SLA automatically starts, pauses, and stops according to the configured Incident states, ensuring accurate SLA calculations and compliance tracking.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 8 – Configure SLA Start / Stop / Pause Conditions
