@@ -1,1 +1,63 @@
+# Task 12 – Install Necessary Plugins
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task installs the **ITSM Virtual Agent Conversations** plugin required for enabling Virtual Agent functionality in ServiceNow.
+
+---
+
+## Navigation
+
+**System Definition → Plugins**
+
+---
+
+## Plugin Information
+
+| Property | Value |
+|----------|-------|
+| Plugin | ITSM Virtual Agent Conversations |
+| Category | Virtual Agent |
+| Status | Installed |
+
+---
+
+## Steps Performed
+
+- Opened Plugins module.
+- Searched for **ITSM Virtual Agent**.
+- Selected **ITSM Virtual Agent Conversations**.
+- Installed the plugin.
+- Verified successful installation.
+
+---
+
+## Deliverables
+
+- Plugin Installation
+- Virtual Agent Enablement
+- Configuration Screenshots
+
+---
+
+## Expected Outcome
+
+The ITSM Virtual Agent Conversations plugin is successfully installed, enabling the Virtual Agent capabilities required for SLA awareness and justification workflows.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 12 – Install Necessary Plugins
