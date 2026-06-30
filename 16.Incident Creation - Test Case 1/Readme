@@ -1,1 +1,55 @@
+# Task 16 – Incident Creation (Test Case 1)
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+Verify that a new Incident can be created successfully and that the configured SLA is automatically attached.
+
+---
+
+## Navigation
+
+**Incident → Create New**
+
+---
+
+## Test Steps
+
+1. Open Incident Creation form.
+2. Enter mandatory details.
+3. Submit the Incident.
+4. Verify Incident Number.
+5. Confirm SLA attachment.
+
+---
+
+## Expected Result
+
+- Incident created successfully.
+- Unique Incident Number generated.
+- SLA attached automatically.
+
+---
+
+## Test Status
+
+**PASS**
+
+---
+
+## Deliverables
+
+- Incident Creation
+- SLA Verification
+- Test Screenshots
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 16 – Incident Creation – Test Case 1
