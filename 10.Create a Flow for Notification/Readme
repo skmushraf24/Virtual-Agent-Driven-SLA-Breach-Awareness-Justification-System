@@ -1,1 +1,66 @@
+# Task 10 – Create a Flow for Notification
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task automates SLA notifications using ServiceNow Flow Designer. When an Incident reaches 80% of its SLA duration, the flow updates the Incident record and sends email notifications to both the assignee and the manager.
+
+---
+
+## Navigation
+
+**Process Automation → Flow Designer → New Flow**
+
+---
+
+## Flow Information
+
+| Property | Value |
+|----------|-------|
+| Flow Name | SLA at Risk Notification |
+| Application | Global |
+| Trigger | Task SLA |
+| Condition | Business Elapsed Percentage > 80% |
+
+---
+
+## Actions Configured
+
+- Look Up Incident Record
+- Update Incident Record
+- Send Email to Assignee
+- Send Email to Manager
+- Activate Flow
+
+---
+
+## Deliverables
+
+- Flow Configuration
+- Trigger Configuration
+- Email Notifications
+- Incident Update Automation
+- Flow Screenshots
+
+---
+
+## Expected Outcome
+
+The Flow Designer automation detects SLA risk, updates the Incident record, and proactively notifies the assignee and manager, improving SLA governance and operational efficiency.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 10 – Create a Flow for Notification
