@@ -1,1 +1,57 @@
+# Task 17 – SLA Attachment & Running (Test Case 2)
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+Verify that the configured SLA is automatically attached to the Incident and starts tracking elapsed business time.
+
+---
+
+## Navigation
+
+**Incident → Related Lists → Task SLA**
+
+---
+
+## Test Steps
+
+1. Open an existing Incident.
+2. Navigate to the **Task SLA** related list.
+3. Verify the SLA record.
+4. Confirm the SLA Due Date.
+5. Check that the SLA Stage is **In Progress**.
+6. Verify that the Business Elapsed Percentage increases over time.
+
+---
+
+## Expected Result
+
+- SLA attached automatically.
+- SLA Due Date generated.
+- SLA Stage is **In Progress**.
+- Business Elapsed Percentage increases.
+
+---
+
+## Test Status
+
+**PASS**
+
+---
+
+## Deliverables
+
+- SLA Attachment Verification
+- SLA Running Validation
+- Test Screenshots
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 17 – SLA Attachment & Running – Test Case 2
