@@ -1,1 +1,66 @@
+# Task 9 – Create Required Incident Fields
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task extends the Incident table by creating custom fields required to capture SLA breach details, acknowledgements, and justifications. These fields are used throughout the project for notifications, Virtual Agent interactions, reporting, and dashboards.
+
+---
+
+## Navigation
+
+**System Definition → Tables → Incident**
+
+---
+
+## Custom Fields
+
+| Field | Type |
+|------|------|
+| SLA Breach Reason | Choice |
+| SLA Breach Justification | String |
+| SLA Acknowledgement | True/False |
+| SLA At Risk | True/False |
+
+---
+
+## Choice Values
+
+- Dependency on third party
+- Awaiting user response
+- Incorrect categorization
+- System outage
+- Approval delay
+- Other
+
+---
+
+## Deliverables
+
+- Incident Table Configuration
+- Custom Fields
+- Choice Values
+- Configuration Screenshots
+
+---
+
+## Expected Outcome
+
+The Incident table contains all required SLA justification fields and predefined choice values, enabling consistent SLA breach tracking and seamless integration with Virtual Agent and reporting features.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 9 – Create Required Incident Fields – SLA Justification Fields
