@@ -1,1 +1,57 @@
+# Task 14 – Dashboard & Reports Navigation
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task creates ServiceNow reports to analyze SLA breaches, acknowledgements, assignment groups, pending justifications, and SLA trends. These reports will later be added to the SLA Governance Dashboard.
+
+---
+
+## Navigation
+
+**Platform Analytics Administration → Reports → Create New**
+
+---
+
+## Reports Created
+
+| Report Name | Visualization |
+|-------------|---------------|
+| SLA Breaches by Reason | Pie |
+| SLA Breaches by Assignment Group | Bar |
+| Acknowledged vs Unacknowledged Breaches | Pie |
+| Top Assignees with SLA Violations | Bar |
+| Pending Justifications | List |
+| SLA Performance Trend | Bar |
+
+---
+
+## Deliverables
+
+- Six ServiceNow Reports
+- Report Configurations
+- Report Screenshots
+- Dashboard Preparation
+
+---
+
+## Expected Outcome
+
+The reports provide real-time insights into SLA governance and support dashboard creation for monitoring SLA performance and compliance.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 14 – Dashboard & Reports Navigation
