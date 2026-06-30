@@ -1,1 +1,62 @@
+# Task 11 – UI Policy Configuration
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Objective
+
+This task configures a UI Policy to dynamically display and enforce SLA-related fields when an Incident is marked as **SLA At Risk**.
+
+---
+
+## Navigation
+
+**System UI → UI Policies**
+
+---
+
+## Condition
+
+| Field | Value |
+|------|------|
+| SLA At Risk | True |
+
+---
+
+## UI Policy Actions
+
+| Field | Visible | Mandatory |
+|------|---------|-----------|
+| SLA Breach Reason | Yes | Yes |
+| SLA Breach Justification | Yes | Yes |
+| SLA Acknowledgement | Yes | No |
+
+---
+
+## Deliverables
+
+- UI Policy
+- UI Policy Actions
+- Incident Form Configuration
+- Screenshots
+
+---
+
+## Expected Outcome
+
+When **SLA At Risk** is set to **True**, the required SLA fields become visible and mandatory, ensuring complete SLA breach documentation before incident closure.
+
+---
+
+## Status
+
+**Completed**
+
+---
+
+**Internship:** SmartBridge – ServiceNow Administration
+
+**Task:** 11 – UI Policy Configuration
