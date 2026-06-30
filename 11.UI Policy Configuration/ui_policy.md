@@ -168,48 +168,48 @@ Save all actions.
 ### Figure 1 – UI Policy Navigation
 
 **Description:** Navigate to System UI → UI Policies in ServiceNow.
+<img width="1024" height="1024" alt="ui_policies_navigation_1782809832269" src="https://github.com/user-attachments/assets/3cc0334a-4bd3-4047-a4e0-1faf77340213" />
 
-![UI Policy Navigation](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/ui_policies_navigation_1782809832269.jpg)
 
 ---
 
 ### Figure 2 – UI Policy Configuration
 
 **Description:** Configure the general settings for 'SLA Justification Policy' on the Incident table.
+<img width="1024" height="1024" alt="ui_policy_config_1782809851781" src="https://github.com/user-attachments/assets/05283306-6012-469b-b5d7-fe0775a6fa42" />
 
-![UI Policy Configuration](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/ui_policy_config_1782809851781.jpg)
 
 ---
 
 ### Figure 3 – UI Policy Condition
 
 **Description:** Set the trigger condition to 'SLA At Risk is True'.
+<img width="1024" height="1024" alt="ui_policy_condition_1782809869396" src="https://github.com/user-attachments/assets/70ea2253-d3b1-49a6-ad83-1bc631b18771" />
 
-![UI Policy Condition](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/ui_policy_condition_1782809869396.jpg)
 
 ---
 
 ### Figure 4 – UI Policy Action – SLA Breach Reason
 
 **Description:** Configure action to make the Choice field 'SLA Breach Reason' visible and mandatory.
+<img width="1024" height="1024" alt="ui_action_reason_1782809889334" src="https://github.com/user-attachments/assets/201c19f8-4dde-4e07-ab2f-a55662a543be" />
 
-![UI Policy Action - SLA Breach Reason](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/ui_action_reason_1782809889334.jpg)
 
 ---
 
 ### Figure 5 – UI Policy Action – SLA Breach Justification
 
 **Description:** Configure action to make the String field 'SLA Breach Justification' visible and mandatory.
+<img width="1024" height="1024" alt="ui_action_justification_1782809903364" src="https://github.com/user-attachments/assets/5568f29d-f5f6-465d-97d5-24e2f46cd27b" />
 
-![UI Policy Action - SLA Breach Justification](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/ui_action_justification_1782809903364.jpg)
 
 ---
 
 ### Figure 6 – UI Policy Action – SLA Acknowledgement
 
 **Description:** Configure action to make the True/False field 'SLA Acknowledgement' visible.
+<img width="1024" height="1024" alt="ui_action_acknowledgement_1782809921939" src="https://github.com/user-attachments/assets/9b6b3596-48ec-468e-8a28-a580b5de8bdf" />
 
-![UI Policy Action - SLA Acknowledgement](/C:/Users/ADMIN/.gemini/antigravity/brain/364ecda7-e697-4299-be7b-ac69dfd42438/ui_action_acknowledgement_1782809921939.jpg)
 
 ---
 
