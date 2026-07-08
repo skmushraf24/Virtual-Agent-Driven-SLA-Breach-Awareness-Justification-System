@@ -1,1 +1,175 @@
+# Testing & Validation
 
+## Project
+
+**Virtual Agent–Driven SLA Breach Awareness & Justification System**
+
+---
+
+## Overview
+
+The **Testing & Validation** phase verifies that every feature of the Virtual Agent–Driven SLA Breach Awareness & Justification System works as expected. Functional testing was performed to validate SLA creation, notifications, Virtual Agent interaction, UI policies, reports, and dashboard components.
+
+This phase ensures the solution meets the project requirements and provides reliable SLA governance within the ServiceNow platform.
+
+---
+
+## Objectives
+
+- Verify Incident creation and SLA attachment.
+- Validate SLA lifecycle and At Risk detection.
+- Test email notification workflow.
+- Confirm UI Policy behavior.
+- Verify Virtual Agent interactions.
+- Validate SLA acknowledgement process.
+- Test reporting functionality.
+- Verify dashboard visualization.
+- Ensure end-to-end SLA governance workflow.
+
+---
+
+## Test Cases
+
+| Test Case | Description | Status |
+|-----------|-------------|--------|
+| Test Case 1 | Incident Creation | ✅ Passed |
+| Test Case 2 | SLA Attachment & Running | ✅ Passed |
+| Test Case 3 | SLA At Risk Trigger | ✅ Passed |
+| Test Case 4 | SLA Notification Email | ✅ Passed |
+| Test Case 5 | UI Policy – Assignee Access | ✅ Passed |
+| Test Case 6 | Virtual Agent Invocation | ✅ Passed |
+| Test Case 7 | SLA Acknowledgement via Virtual Agent | ✅ Passed |
+| Test Case 8 | Reporting – SLA Breaches by Reason | ✅ Passed |
+| Test Case 9 | Reporting – Acknowledged vs Unacknowledged Breaches | ✅ Passed |
+| Test Case 10 | Reporting – Pending Justifications | ✅ Passed |
+| Test Case 11 | Dashboard – SLA Governance View | ✅ Passed |
+
+---
+
+## Features Validated
+
+### Incident Management
+
+- Incident creation
+- SLA attachment
+- SLA timer execution
+
+### SLA Governance
+
+- SLA monitoring
+- SLA At Risk detection
+- Automatic work note updates
+
+### Notifications
+
+- Email notifications to assignees
+- Email notifications to managers
+- SLA warning messages
+
+### UI Policies
+
+- Mandatory SLA Breach Reason
+- Mandatory SLA Breach Justification
+- SLA Acknowledgement visibility
+
+### Virtual Agent
+
+- SLA awareness conversation
+- Guided governance steps
+- SLA acknowledgement confirmation
+
+### Reporting
+
+- SLA Breaches by Reason
+- SLA Breaches by Assignment Group
+- Pending Justifications
+- Acknowledged vs Unacknowledged Breaches
+- Top Assignees with SLA Violations
+- SLA Performance Trend
+
+### Dashboard
+
+- Centralized SLA Governance Dashboard
+- Real-time SLA monitoring
+- Report widgets
+- Performance visualization
+
+---
+
+## Expected Outcome
+
+- Incidents are created successfully.
+- SLA attaches automatically.
+- SLA At Risk updates after threshold.
+- Notification emails are delivered.
+- UI Policy enforces mandatory fields.
+- Virtual Agent guides users effectively.
+- Reports display accurate SLA data.
+- Dashboard provides centralized monitoring.
+
+---
+
+## Test Summary
+
+| Module | Result |
+|---------|--------|
+| Incident Management | ✅ Passed |
+| SLA Configuration | ✅ Passed |
+| Flow Designer | ✅ Passed |
+| Email Notifications | ✅ Passed |
+| UI Policy | ✅ Passed |
+| Virtual Agent | ✅ Passed |
+| Reporting | ✅ Passed |
+| Dashboard | ✅ Passed |
+
+---
+
+## Technologies Used
+
+- ServiceNow Administration
+- Service Level Management (SLM)
+- Flow Designer
+- Virtual Agent
+- Platform Analytics
+- Reports
+- Dashboards
+- UI Policies
+- Incident Management
+
+---
+
+## Folder Structure
+
+```
+Testing_Validation/
+│
+├── Test_Case_1_Incident_Creation.md
+├── Test_Case_2_SLA_Attachment_Running.md
+├── Test_Case_3_SLA_At_Risk_Trigger.md
+├── Test_Case_4_SLA_Notification_Email.md
+├── Test_Case_5_UI_Policy_Assignee_Access.md
+├── Test_Case_6_Virtual_Agent_Invocation.md
+├── Test_Case_7_SLA_Acknowledgement_Virtual_Agent.md
+├── Test_Case_8_Reporting_SLA_Breaches_By_Reason.md
+├── Test_Case_9_Acknowledged_vs_Unacknowledged_Breaches.md
+├── Test_Case_10_Pending_Justifications.md
+├── Test_Case_11_Dashboard_SLA_Governance_View.md
+├── Screenshots/
+└── README.md
+```
+
+---
+
+## Conclusion
+
+The **Testing & Validation** phase successfully verified all functional requirements of the **Virtual Agent–Driven SLA Breach Awareness & Justification System**. All eleven test cases passed successfully, confirming that the system accurately monitors SLAs, automates notifications, enforces governance policies, enables user interaction through the Virtual Agent, and provides comprehensive reporting and dashboard insights. The solution is stable, reliable, and ready for deployment in a ServiceNow environment.
+
+---
+
+## Git Commit
+
+```bash
+git add .
+git commit -m "docs(testing): add Testing & Validation documentation and README"
+git push origin main
+```
